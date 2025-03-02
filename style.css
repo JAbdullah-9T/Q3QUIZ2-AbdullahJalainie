@@ -1,0 +1,51 @@
+
+#footer {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#title {
+	text-align: center;
+}
+
+#image {
+	width: 100%;
+}
+
+#body {
+	background-color: royalblue;
+}
+
+#element-class {
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+
+hr {
+	background-color: blue;
+}
+
+#main {
+	background-color: deepskyblue;
+	border-radius: 12px;
+}
+
+#submit, #ticketprice, #printticket, #onemore {
+	color: blue;
+	background-color: skyblue;
+}
+
+#details {
+	text-align: center;
+}
+
+#main2 {
+	background-color: skyblue;
+	border-radius: 12px;
+}
+
+details {
+	background-color: lightblue;
+	border-radius: 12px;
+}
